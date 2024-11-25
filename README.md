@@ -12,7 +12,7 @@ docker build .
 
 https://native.hotwired.dev/ios/getting-started
 
-![1](1.png)
-![2](2.png)
+<img src="1.png" alt="drawing" width="200"/>
+<img src="2.png" alt="drawing" width="200"/>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E612C7I5)
